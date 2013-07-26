@@ -44,9 +44,9 @@ $db['default']['database'] = "observer";
 
 /*
 $db['default']['hostname'] = 'sql3.freemysqlhosting.net';
-$db['default']['username'] = 'sql313764';
-$db['default']['password'] = 'fX6*kP3!';
-$db['default']['database'] = 'sql313764';
+$db['default']['username'] = 'sql314860';
+$db['default']['password'] = 'fZ8*tP1!';
+$db['default']['database'] = 'sql314860';
 */
 
 $db['default']['dbdriver'] = "mysql";
