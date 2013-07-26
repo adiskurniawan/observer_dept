@@ -38,7 +38,7 @@
 |
 */
 
-$route['default_controller'] = "demo_ace";
+$route['default_controller'] = "streamer_equipment";
 $route['404_override'] = '';
 
 
