@@ -1,7 +1,7 @@
 			<a id="menu-toggler" href="#">
 				<span></span>
 			</a>
-			 
+
 			<div id="sidebar">
 				<div id="sidebar-shortcuts">
 					<strong class="text-warning orange">Observer Department</strong>
@@ -38,73 +38,58 @@
 
 				<ul class="nav nav-list main-menu">
 					<li>
-						<a href="<?php echo base_url(); ?>demo_ace/dashboard">
-							<i class="icon-dashboard"></i>
-							<span>Dashboard</span>
-						</a>
-					</li>
-
-					<li>
-						<a href="<?php echo base_url(); ?>demo_ace/typography">
-							<i class="icon-text-width"></i>
-							<span>Typography</span>
-						</a>
-					</li>
-
-					<li>
-						<a href="<?php echo base_url(); ?>demo_ace/elements">
-							<i class="icon-desktop"></i>
-							Elements
-						</a>
-					</li>
-
-					<li>
-						<a href="<?php echo base_url(); ?>demo_ace/buttons">
-							<i class="icon-desktop"></i>
-							Buttons &amp; Icons
-						</a>
-					</li>
-
-					<li>
-						<a href="<?php echo base_url(); ?>demo_ace/treeview">
-							<i class="icon-desktop"></i>
-							Treeview
-						</a>
-					</li>
-						
-
-					<li>
-						<a href="<?php echo base_url(); ?>demo_ace/tables">
+						<a href="<?php echo base_url(); ?>streamer_equipment/leadin">
 							<i class="icon-list"></i>
-							<span>Tables</span>
+							<span>Leadin</span>
 						</a>
 					</li>
 
 					<li>
-						<a href="<?php echo base_url(); ?>demo_ace/form_elements">
-							<i class="icon-edit"></i>
-							Form Elements
+						<a href="<?php echo base_url(); ?>streamer_equipment/front_end_section">
+							<i class="icon-list"></i>
+							<span>Front End Section</span>
 						</a>
 					</li>
 
 					<li>
-						<a href="<?php echo base_url(); ?>demo_ace/form_validation">
-							<i class="icon-edit"></i>
-							Form Validation
+						<a href="<?php echo base_url(); ?>streamer_equipment/section">
+							<i class="icon-list"></i>
+							<span>Section</span>
 						</a>
 					</li>
 
 					<li>
-						<a href="<?php echo base_url(); ?>demo_ace/widgets">
-							<i class="icon-list-alt"></i>
-							<span>Widgets</span>
+						<a href="<?php echo base_url(); ?>streamer_equipment/module">
+							<i class="icon-list"></i>
+							<span>Module</span>
 						</a>
 					</li>
 
 					<li>
-						<a href="<?php echo base_url(); ?>demo_ace/calendar">
-							<i class="icon-calendar"></i>
-							<span>Calendar</span>
+						<a href="<?php echo base_url(); ?>streamer_equipment/tail_end_section">
+							<i class="icon-list"></i>
+							<span>Tail End Section</span>
+						</a>
+					</li>
+
+					<li>
+						<a href="<?php echo base_url(); ?>streamer_equipment/bird">
+							<i class="icon-list"></i>
+							<span>Bird</span>
+						</a>
+					</li>
+
+					<li>
+						<a href="<?php echo base_url(); ?>streamer_equipment/srd">
+							<i class="icon-list"></i>
+							<span>SRD</span>
+						</a>
+					</li>
+
+					<li>
+						<a href="<?php echo base_url(); ?>streamer_equipment/slip_ring">
+							<i class="icon-list"></i>
+							<span>Slip Ring</span>
 						</a>
 					</li>
 					

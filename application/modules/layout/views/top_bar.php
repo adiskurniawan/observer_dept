@@ -24,18 +24,30 @@
 		-->
 
 		<li class="mi">
-		  <a href="#" style="margin-left:50px">Master Data</a>
+		  <a href="<?php echo base_url(); ?>streamer_equipment" style="margin-left:30px">Master</a>
 		</li>
 
 		<li class="mi">
 		  <a href="#">Storage & Birds</a>
 		</li>
-		
-		<!-- 
+
 		<li class="mi">
-		  <a target="_blank" href="https://github.com/adiskurniawan/adi_apps">GitHub</a>
+		  <a href="#">Equipment Summary</a>
+		</li>
+
+		<li class="mi">
+		  <a href="#">Quick Search</a>
+		</li>
+
+		<li class="mi">
+		  <a href="#">Shipment</a>
+		</li>
+		
+		
+		<li class="mi">
+		  <a target="_blank" style="margin-left:30px" href="https://github.com/adiskurniawan/observer_dept">GitHub</a>
 		</li>  
-		-->
+		
 	
 	</ul>
 
