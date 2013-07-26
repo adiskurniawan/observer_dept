@@ -716,3 +716,937 @@ DEBUG - 2013-07-26 07:30:55 --> File loaded: application/modules/layout/views/la
 DEBUG - 2013-07-26 07:30:55 --> File loaded: application/modules/layout/views/layout_ace_dashboard.php
 DEBUG - 2013-07-26 07:30:55 --> Final output sent to browser
 DEBUG - 2013-07-26 07:30:55 --> Total execution time: 0.2221
+DEBUG - 2013-07-26 07:56:00 --> Config Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> Hooks Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> Utf8 Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> UTF-8 Support Enabled
+DEBUG - 2013-07-26 07:56:00 --> URI Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> Router Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> Output Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> Security Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> Input Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-26 07:56:00 --> Language Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> Language Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> Config Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> Loader Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> Helper loaded: form_helper
+DEBUG - 2013-07-26 07:56:00 --> Helper loaded: url_helper
+DEBUG - 2013-07-26 07:56:00 --> Helper loaded: table_helper
+DEBUG - 2013-07-26 07:56:00 --> Helper loaded: date_helper
+DEBUG - 2013-07-26 07:56:00 --> Helper loaded: text_helper
+DEBUG - 2013-07-26 07:56:00 --> Helper loaded: security_helper
+DEBUG - 2013-07-26 07:56:00 --> Helper loaded: lib_helper
+DEBUG - 2013-07-26 07:56:00 --> Helper loaded: html_helper
+DEBUG - 2013-07-26 07:56:00 --> Helper loaded: download_helper
+DEBUG - 2013-07-26 07:56:00 --> Helper loaded: csv_helper
+DEBUG - 2013-07-26 07:56:00 --> Helper loaded: datatables_helper
+DEBUG - 2013-07-26 07:56:00 --> Database Driver Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> Table Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> Form Validation Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> Session Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> Helper loaded: string_helper
+ERROR - 2013-07-26 07:56:00 --> The session cookie data did not match what was expected. This could be a possible hacking attempt.
+DEBUG - 2013-07-26 07:56:00 --> Session routines successfully run
+DEBUG - 2013-07-26 07:56:00 --> Email Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> User Agent Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> Pagination Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> Controller Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> Demo_ace MX_Controller Initialized
+DEBUG - 2013-07-26 07:56:00 --> Config file loaded: application/config/fusion_invoice.php
+DEBUG - 2013-07-26 07:56:00 --> Helper loaded: number_helper
+DEBUG - 2013-07-26 07:56:00 --> Helper loaded: pager_helper
+DEBUG - 2013-07-26 07:56:00 --> Helper loaded: invoice_helper
+DEBUG - 2013-07-26 07:56:00 --> Model Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> File loaded: application/modules/settings/models/mdl_settings.php
+DEBUG - 2013-07-26 07:56:00 --> Model Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> Language file loaded: language/english/app_lang.php
+DEBUG - 2013-07-26 07:56:00 --> Helper loaded: language_helper
+DEBUG - 2013-07-26 07:56:00 --> File loaded: application/controllers/../modules/layout/controllers/layout.php
+DEBUG - 2013-07-26 07:56:00 --> Layout MX_Controller Initialized
+DEBUG - 2013-07-26 07:56:00 --> Config Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> Hooks Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> Utf8 Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> UTF-8 Support Enabled
+DEBUG - 2013-07-26 07:56:00 --> URI Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> Router Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> Output Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> Security Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> Input Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-26 07:56:00 --> Language Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> Language Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> Config Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> Loader Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> Loader Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> Helper loaded: form_helper
+DEBUG - 2013-07-26 07:56:00 --> Helper loaded: url_helper
+DEBUG - 2013-07-26 07:56:00 --> Helper loaded: table_helper
+DEBUG - 2013-07-26 07:56:00 --> Helper loaded: date_helper
+DEBUG - 2013-07-26 07:56:00 --> Helper loaded: text_helper
+DEBUG - 2013-07-26 07:56:00 --> Helper loaded: security_helper
+DEBUG - 2013-07-26 07:56:00 --> Helper loaded: lib_helper
+DEBUG - 2013-07-26 07:56:00 --> Helper loaded: html_helper
+DEBUG - 2013-07-26 07:56:00 --> Helper loaded: download_helper
+DEBUG - 2013-07-26 07:56:00 --> Helper loaded: csv_helper
+DEBUG - 2013-07-26 07:56:00 --> Helper loaded: datatables_helper
+DEBUG - 2013-07-26 07:56:00 --> Database Driver Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> Table Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> Form Validation Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> Session Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> Helper loaded: string_helper
+DEBUG - 2013-07-26 07:56:00 --> Session routines successfully run
+DEBUG - 2013-07-26 07:56:00 --> Email Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> User Agent Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> Pagination Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> Controller Class Initialized
+DEBUG - 2013-07-26 07:56:00 --> File loaded: application/views/login_header.php
+DEBUG - 2013-07-26 07:56:00 --> File loaded: application/views/login.php
+DEBUG - 2013-07-26 07:56:00 --> File loaded: application/views/footer.php
+DEBUG - 2013-07-26 07:56:00 --> File loaded: application/views/login_loader.php
+DEBUG - 2013-07-26 07:56:00 --> Final output sent to browser
+DEBUG - 2013-07-26 07:56:00 --> Total execution time: 0.1305
+DEBUG - 2013-07-26 07:56:02 --> Config Class Initialized
+DEBUG - 2013-07-26 07:56:02 --> Hooks Class Initialized
+DEBUG - 2013-07-26 07:56:02 --> Utf8 Class Initialized
+DEBUG - 2013-07-26 07:56:02 --> UTF-8 Support Enabled
+DEBUG - 2013-07-26 07:56:02 --> URI Class Initialized
+DEBUG - 2013-07-26 07:56:02 --> Router Class Initialized
+DEBUG - 2013-07-26 07:56:02 --> Output Class Initialized
+DEBUG - 2013-07-26 07:56:02 --> Security Class Initialized
+DEBUG - 2013-07-26 07:56:02 --> Input Class Initialized
+DEBUG - 2013-07-26 07:56:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-26 07:56:02 --> Language Class Initialized
+DEBUG - 2013-07-26 07:56:02 --> Language Class Initialized
+DEBUG - 2013-07-26 07:56:02 --> Config Class Initialized
+DEBUG - 2013-07-26 07:56:02 --> Loader Class Initialized
+DEBUG - 2013-07-26 07:56:02 --> Loader Class Initialized
+DEBUG - 2013-07-26 07:56:02 --> Helper loaded: form_helper
+DEBUG - 2013-07-26 07:56:02 --> Helper loaded: url_helper
+DEBUG - 2013-07-26 07:56:02 --> Helper loaded: table_helper
+DEBUG - 2013-07-26 07:56:02 --> Helper loaded: date_helper
+DEBUG - 2013-07-26 07:56:02 --> Helper loaded: text_helper
+DEBUG - 2013-07-26 07:56:02 --> Helper loaded: security_helper
+DEBUG - 2013-07-26 07:56:02 --> Helper loaded: lib_helper
+DEBUG - 2013-07-26 07:56:02 --> Helper loaded: html_helper
+DEBUG - 2013-07-26 07:56:02 --> Helper loaded: download_helper
+DEBUG - 2013-07-26 07:56:02 --> Helper loaded: csv_helper
+DEBUG - 2013-07-26 07:56:02 --> Helper loaded: datatables_helper
+DEBUG - 2013-07-26 07:56:02 --> Database Driver Class Initialized
+DEBUG - 2013-07-26 07:56:02 --> Table Class Initialized
+DEBUG - 2013-07-26 07:56:02 --> Form Validation Class Initialized
+DEBUG - 2013-07-26 07:56:02 --> Session Class Initialized
+DEBUG - 2013-07-26 07:56:02 --> Helper loaded: string_helper
+DEBUG - 2013-07-26 07:56:02 --> Session routines successfully run
+DEBUG - 2013-07-26 07:56:02 --> Email Class Initialized
+DEBUG - 2013-07-26 07:56:02 --> User Agent Class Initialized
+DEBUG - 2013-07-26 07:56:02 --> Pagination Class Initialized
+DEBUG - 2013-07-26 07:56:02 --> Controller Class Initialized
+DEBUG - 2013-07-26 07:56:02 --> Model Class Initialized
+DEBUG - 2013-07-26 07:56:02 --> Model Class Initialized
+DEBUG - 2013-07-26 07:56:02 --> File loaded: application/views/login_success.php
+DEBUG - 2013-07-26 07:56:02 --> Final output sent to browser
+DEBUG - 2013-07-26 07:56:02 --> Total execution time: 0.1423
+DEBUG - 2013-07-26 07:56:05 --> Config Class Initialized
+DEBUG - 2013-07-26 07:56:05 --> Hooks Class Initialized
+DEBUG - 2013-07-26 07:56:05 --> Utf8 Class Initialized
+DEBUG - 2013-07-26 07:56:05 --> UTF-8 Support Enabled
+DEBUG - 2013-07-26 07:56:05 --> URI Class Initialized
+DEBUG - 2013-07-26 07:56:05 --> Router Class Initialized
+DEBUG - 2013-07-26 07:56:05 --> Output Class Initialized
+DEBUG - 2013-07-26 07:56:05 --> Security Class Initialized
+DEBUG - 2013-07-26 07:56:05 --> Input Class Initialized
+DEBUG - 2013-07-26 07:56:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-26 07:56:05 --> Language Class Initialized
+DEBUG - 2013-07-26 07:56:05 --> Language Class Initialized
+DEBUG - 2013-07-26 07:56:05 --> Config Class Initialized
+DEBUG - 2013-07-26 07:56:05 --> Loader Class Initialized
+DEBUG - 2013-07-26 07:56:05 --> Helper loaded: form_helper
+DEBUG - 2013-07-26 07:56:05 --> Helper loaded: url_helper
+DEBUG - 2013-07-26 07:56:05 --> Helper loaded: table_helper
+DEBUG - 2013-07-26 07:56:05 --> Helper loaded: date_helper
+DEBUG - 2013-07-26 07:56:05 --> Helper loaded: text_helper
+DEBUG - 2013-07-26 07:56:05 --> Helper loaded: security_helper
+DEBUG - 2013-07-26 07:56:05 --> Helper loaded: lib_helper
+DEBUG - 2013-07-26 07:56:05 --> Helper loaded: html_helper
+DEBUG - 2013-07-26 07:56:05 --> Helper loaded: download_helper
+DEBUG - 2013-07-26 07:56:05 --> Helper loaded: csv_helper
+DEBUG - 2013-07-26 07:56:05 --> Helper loaded: datatables_helper
+DEBUG - 2013-07-26 07:56:05 --> Database Driver Class Initialized
+DEBUG - 2013-07-26 07:56:05 --> Table Class Initialized
+DEBUG - 2013-07-26 07:56:05 --> Form Validation Class Initialized
+DEBUG - 2013-07-26 07:56:05 --> Session Class Initialized
+DEBUG - 2013-07-26 07:56:05 --> Helper loaded: string_helper
+DEBUG - 2013-07-26 07:56:05 --> Session routines successfully run
+DEBUG - 2013-07-26 07:56:05 --> Email Class Initialized
+DEBUG - 2013-07-26 07:56:05 --> User Agent Class Initialized
+DEBUG - 2013-07-26 07:56:05 --> Pagination Class Initialized
+DEBUG - 2013-07-26 07:56:05 --> Controller Class Initialized
+DEBUG - 2013-07-26 07:56:05 --> Demo_ace MX_Controller Initialized
+DEBUG - 2013-07-26 07:56:05 --> Config file loaded: application/config/fusion_invoice.php
+DEBUG - 2013-07-26 07:56:05 --> Helper loaded: number_helper
+DEBUG - 2013-07-26 07:56:05 --> Helper loaded: pager_helper
+DEBUG - 2013-07-26 07:56:05 --> Helper loaded: invoice_helper
+DEBUG - 2013-07-26 07:56:05 --> Model Class Initialized
+DEBUG - 2013-07-26 07:56:05 --> File loaded: application/modules/settings/models/mdl_settings.php
+DEBUG - 2013-07-26 07:56:05 --> Model Class Initialized
+DEBUG - 2013-07-26 07:56:05 --> Language file loaded: language/english/app_lang.php
+DEBUG - 2013-07-26 07:56:05 --> Helper loaded: language_helper
+DEBUG - 2013-07-26 07:56:05 --> File loaded: application/controllers/../modules/layout/controllers/layout.php
+DEBUG - 2013-07-26 07:56:05 --> Layout MX_Controller Initialized
+DEBUG - 2013-07-26 07:56:05 --> Config Class Initialized
+DEBUG - 2013-07-26 07:56:05 --> Hooks Class Initialized
+DEBUG - 2013-07-26 07:56:05 --> Utf8 Class Initialized
+DEBUG - 2013-07-26 07:56:05 --> UTF-8 Support Enabled
+DEBUG - 2013-07-26 07:56:05 --> URI Class Initialized
+DEBUG - 2013-07-26 07:56:05 --> Router Class Initialized
+DEBUG - 2013-07-26 07:56:05 --> Output Class Initialized
+DEBUG - 2013-07-26 07:56:05 --> Security Class Initialized
+DEBUG - 2013-07-26 07:56:05 --> Input Class Initialized
+DEBUG - 2013-07-26 07:56:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-26 07:56:05 --> Language Class Initialized
+DEBUG - 2013-07-26 07:56:05 --> Language Class Initialized
+DEBUG - 2013-07-26 07:56:05 --> Config Class Initialized
+DEBUG - 2013-07-26 07:56:05 --> Loader Class Initialized
+DEBUG - 2013-07-26 07:56:05 --> Helper loaded: form_helper
+DEBUG - 2013-07-26 07:56:05 --> Helper loaded: url_helper
+DEBUG - 2013-07-26 07:56:05 --> Helper loaded: table_helper
+DEBUG - 2013-07-26 07:56:05 --> Helper loaded: date_helper
+DEBUG - 2013-07-26 07:56:05 --> Helper loaded: text_helper
+DEBUG - 2013-07-26 07:56:05 --> Helper loaded: security_helper
+DEBUG - 2013-07-26 07:56:05 --> Helper loaded: lib_helper
+DEBUG - 2013-07-26 07:56:05 --> Helper loaded: html_helper
+DEBUG - 2013-07-26 07:56:05 --> Helper loaded: download_helper
+DEBUG - 2013-07-26 07:56:05 --> Helper loaded: csv_helper
+DEBUG - 2013-07-26 07:56:05 --> Helper loaded: datatables_helper
+DEBUG - 2013-07-26 07:56:06 --> Database Driver Class Initialized
+DEBUG - 2013-07-26 07:56:06 --> Table Class Initialized
+DEBUG - 2013-07-26 07:56:06 --> Form Validation Class Initialized
+DEBUG - 2013-07-26 07:56:06 --> Session Class Initialized
+DEBUG - 2013-07-26 07:56:06 --> Helper loaded: string_helper
+DEBUG - 2013-07-26 07:56:06 --> Session routines successfully run
+DEBUG - 2013-07-26 07:56:06 --> Email Class Initialized
+DEBUG - 2013-07-26 07:56:06 --> User Agent Class Initialized
+DEBUG - 2013-07-26 07:56:06 --> Pagination Class Initialized
+DEBUG - 2013-07-26 07:56:06 --> Controller Class Initialized
+DEBUG - 2013-07-26 07:56:06 --> Demo_ace MX_Controller Initialized
+DEBUG - 2013-07-26 07:56:06 --> Config file loaded: application/config/fusion_invoice.php
+DEBUG - 2013-07-26 07:56:06 --> Helper loaded: number_helper
+DEBUG - 2013-07-26 07:56:06 --> Helper loaded: pager_helper
+DEBUG - 2013-07-26 07:56:06 --> Helper loaded: invoice_helper
+DEBUG - 2013-07-26 07:56:06 --> Model Class Initialized
+DEBUG - 2013-07-26 07:56:06 --> File loaded: application/modules/settings/models/mdl_settings.php
+DEBUG - 2013-07-26 07:56:06 --> Model Class Initialized
+DEBUG - 2013-07-26 07:56:06 --> Language file loaded: language/english/app_lang.php
+DEBUG - 2013-07-26 07:56:06 --> Helper loaded: language_helper
+DEBUG - 2013-07-26 07:56:06 --> File loaded: application/controllers/../modules/layout/controllers/layout.php
+DEBUG - 2013-07-26 07:56:06 --> Layout MX_Controller Initialized
+DEBUG - 2013-07-26 07:56:06 --> File loaded: application/modules/demo_ace/views/index.php
+DEBUG - 2013-07-26 07:56:06 --> File loaded: application/modules/layout/views/top_bar.php
+DEBUG - 2013-07-26 07:56:06 --> File loaded: application/modules/layout/views/layout_ace_side_bar.php
+DEBUG - 2013-07-26 07:56:06 --> File loaded: application/modules/layout/views/layout_ace_dashboard.php
+DEBUG - 2013-07-26 07:56:06 --> Final output sent to browser
+DEBUG - 2013-07-26 07:56:06 --> Total execution time: 0.1608
+DEBUG - 2013-07-26 07:56:08 --> Config Class Initialized
+DEBUG - 2013-07-26 07:56:08 --> Hooks Class Initialized
+DEBUG - 2013-07-26 07:56:08 --> Utf8 Class Initialized
+DEBUG - 2013-07-26 07:56:08 --> UTF-8 Support Enabled
+DEBUG - 2013-07-26 07:56:08 --> URI Class Initialized
+DEBUG - 2013-07-26 07:56:08 --> Router Class Initialized
+DEBUG - 2013-07-26 07:56:08 --> Output Class Initialized
+DEBUG - 2013-07-26 07:56:08 --> Security Class Initialized
+DEBUG - 2013-07-26 07:56:08 --> Input Class Initialized
+DEBUG - 2013-07-26 07:56:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-26 07:56:08 --> Language Class Initialized
+DEBUG - 2013-07-26 07:56:08 --> Language Class Initialized
+DEBUG - 2013-07-26 07:56:08 --> Config Class Initialized
+DEBUG - 2013-07-26 07:56:08 --> Loader Class Initialized
+DEBUG - 2013-07-26 07:56:08 --> Helper loaded: form_helper
+DEBUG - 2013-07-26 07:56:08 --> Helper loaded: url_helper
+DEBUG - 2013-07-26 07:56:08 --> Helper loaded: table_helper
+DEBUG - 2013-07-26 07:56:08 --> Helper loaded: date_helper
+DEBUG - 2013-07-26 07:56:08 --> Helper loaded: text_helper
+DEBUG - 2013-07-26 07:56:08 --> Helper loaded: security_helper
+DEBUG - 2013-07-26 07:56:08 --> Helper loaded: lib_helper
+DEBUG - 2013-07-26 07:56:08 --> Helper loaded: html_helper
+DEBUG - 2013-07-26 07:56:08 --> Helper loaded: download_helper
+DEBUG - 2013-07-26 07:56:08 --> Helper loaded: csv_helper
+DEBUG - 2013-07-26 07:56:08 --> Helper loaded: datatables_helper
+DEBUG - 2013-07-26 07:56:08 --> Database Driver Class Initialized
+DEBUG - 2013-07-26 07:56:08 --> Table Class Initialized
+DEBUG - 2013-07-26 07:56:08 --> Form Validation Class Initialized
+DEBUG - 2013-07-26 07:56:08 --> Session Class Initialized
+DEBUG - 2013-07-26 07:56:08 --> Helper loaded: string_helper
+DEBUG - 2013-07-26 07:56:08 --> Session routines successfully run
+DEBUG - 2013-07-26 07:56:08 --> Email Class Initialized
+DEBUG - 2013-07-26 07:56:08 --> User Agent Class Initialized
+DEBUG - 2013-07-26 07:56:08 --> Pagination Class Initialized
+DEBUG - 2013-07-26 07:56:08 --> Controller Class Initialized
+DEBUG - 2013-07-26 07:56:08 --> Demo_ace MX_Controller Initialized
+DEBUG - 2013-07-26 07:56:08 --> Config file loaded: application/config/fusion_invoice.php
+DEBUG - 2013-07-26 07:56:08 --> Helper loaded: number_helper
+DEBUG - 2013-07-26 07:56:08 --> Helper loaded: pager_helper
+DEBUG - 2013-07-26 07:56:08 --> Helper loaded: invoice_helper
+DEBUG - 2013-07-26 07:56:08 --> Model Class Initialized
+DEBUG - 2013-07-26 07:56:08 --> File loaded: application/modules/settings/models/mdl_settings.php
+DEBUG - 2013-07-26 07:56:08 --> Model Class Initialized
+DEBUG - 2013-07-26 07:56:08 --> Language file loaded: language/english/app_lang.php
+DEBUG - 2013-07-26 07:56:08 --> Helper loaded: language_helper
+DEBUG - 2013-07-26 07:56:08 --> File loaded: application/controllers/../modules/layout/controllers/layout.php
+DEBUG - 2013-07-26 07:56:08 --> Layout MX_Controller Initialized
+DEBUG - 2013-07-26 07:56:08 --> File loaded: application/modules/demo_ace/views/typography.php
+DEBUG - 2013-07-26 07:56:08 --> File loaded: application/modules/layout/views/top_bar.php
+DEBUG - 2013-07-26 07:56:08 --> File loaded: application/modules/layout/views/layout_ace_side_bar.php
+DEBUG - 2013-07-26 07:56:08 --> File loaded: application/modules/layout/views/layout_ace.php
+DEBUG - 2013-07-26 07:56:08 --> Final output sent to browser
+DEBUG - 2013-07-26 07:56:08 --> Total execution time: 0.2008
+DEBUG - 2013-07-26 07:56:56 --> Config Class Initialized
+DEBUG - 2013-07-26 07:56:56 --> Hooks Class Initialized
+DEBUG - 2013-07-26 07:56:56 --> Utf8 Class Initialized
+DEBUG - 2013-07-26 07:56:56 --> UTF-8 Support Enabled
+DEBUG - 2013-07-26 07:56:56 --> URI Class Initialized
+DEBUG - 2013-07-26 07:56:56 --> Router Class Initialized
+DEBUG - 2013-07-26 07:56:56 --> Output Class Initialized
+DEBUG - 2013-07-26 07:56:56 --> Security Class Initialized
+DEBUG - 2013-07-26 07:56:56 --> Input Class Initialized
+DEBUG - 2013-07-26 07:56:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-26 07:56:56 --> Language Class Initialized
+DEBUG - 2013-07-26 07:56:56 --> Language Class Initialized
+DEBUG - 2013-07-26 07:56:56 --> Config Class Initialized
+DEBUG - 2013-07-26 07:56:56 --> Loader Class Initialized
+DEBUG - 2013-07-26 07:56:56 --> Helper loaded: form_helper
+DEBUG - 2013-07-26 07:56:56 --> Helper loaded: url_helper
+DEBUG - 2013-07-26 07:56:56 --> Helper loaded: table_helper
+DEBUG - 2013-07-26 07:56:56 --> Helper loaded: date_helper
+DEBUG - 2013-07-26 07:56:56 --> Helper loaded: text_helper
+DEBUG - 2013-07-26 07:56:56 --> Helper loaded: security_helper
+DEBUG - 2013-07-26 07:56:56 --> Helper loaded: lib_helper
+DEBUG - 2013-07-26 07:56:56 --> Helper loaded: html_helper
+DEBUG - 2013-07-26 07:56:56 --> Helper loaded: download_helper
+DEBUG - 2013-07-26 07:56:56 --> Helper loaded: csv_helper
+DEBUG - 2013-07-26 07:56:56 --> Helper loaded: datatables_helper
+DEBUG - 2013-07-26 07:56:56 --> Database Driver Class Initialized
+DEBUG - 2013-07-26 07:56:56 --> Table Class Initialized
+DEBUG - 2013-07-26 07:56:56 --> Form Validation Class Initialized
+DEBUG - 2013-07-26 07:56:56 --> Session Class Initialized
+DEBUG - 2013-07-26 07:56:56 --> Helper loaded: string_helper
+DEBUG - 2013-07-26 07:56:56 --> Session routines successfully run
+DEBUG - 2013-07-26 07:56:56 --> Email Class Initialized
+DEBUG - 2013-07-26 07:56:56 --> User Agent Class Initialized
+DEBUG - 2013-07-26 07:56:56 --> Pagination Class Initialized
+DEBUG - 2013-07-26 07:56:56 --> Controller Class Initialized
+DEBUG - 2013-07-26 07:56:56 --> Demo_ace MX_Controller Initialized
+DEBUG - 2013-07-26 07:56:56 --> Config file loaded: application/config/fusion_invoice.php
+DEBUG - 2013-07-26 07:56:56 --> Helper loaded: number_helper
+DEBUG - 2013-07-26 07:56:56 --> Helper loaded: pager_helper
+DEBUG - 2013-07-26 07:56:56 --> Helper loaded: invoice_helper
+DEBUG - 2013-07-26 07:56:56 --> Model Class Initialized
+DEBUG - 2013-07-26 07:56:56 --> File loaded: application/modules/settings/models/mdl_settings.php
+DEBUG - 2013-07-26 07:56:56 --> Model Class Initialized
+DEBUG - 2013-07-26 07:56:56 --> Language file loaded: language/english/app_lang.php
+DEBUG - 2013-07-26 07:56:56 --> Helper loaded: language_helper
+DEBUG - 2013-07-26 07:56:56 --> File loaded: application/controllers/../modules/layout/controllers/layout.php
+DEBUG - 2013-07-26 07:56:56 --> Layout MX_Controller Initialized
+DEBUG - 2013-07-26 07:56:56 --> File loaded: application/modules/demo_ace/views/typography.php
+DEBUG - 2013-07-26 07:56:56 --> File loaded: application/modules/layout/views/top_bar.php
+DEBUG - 2013-07-26 07:56:56 --> File loaded: application/modules/layout/views/layout_ace_side_bar.php
+DEBUG - 2013-07-26 07:56:56 --> File loaded: application/modules/layout/views/layout_ace.php
+DEBUG - 2013-07-26 07:56:56 --> Final output sent to browser
+DEBUG - 2013-07-26 07:56:56 --> Total execution time: 0.1700
+DEBUG - 2013-07-26 07:56:59 --> Config Class Initialized
+DEBUG - 2013-07-26 07:56:59 --> Hooks Class Initialized
+DEBUG - 2013-07-26 07:56:59 --> Utf8 Class Initialized
+DEBUG - 2013-07-26 07:56:59 --> UTF-8 Support Enabled
+DEBUG - 2013-07-26 07:56:59 --> URI Class Initialized
+DEBUG - 2013-07-26 07:56:59 --> Router Class Initialized
+DEBUG - 2013-07-26 07:56:59 --> Output Class Initialized
+DEBUG - 2013-07-26 07:56:59 --> Security Class Initialized
+DEBUG - 2013-07-26 07:56:59 --> Input Class Initialized
+DEBUG - 2013-07-26 07:56:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-26 07:56:59 --> Language Class Initialized
+DEBUG - 2013-07-26 07:56:59 --> Language Class Initialized
+DEBUG - 2013-07-26 07:56:59 --> Config Class Initialized
+DEBUG - 2013-07-26 07:56:59 --> Loader Class Initialized
+DEBUG - 2013-07-26 07:56:59 --> Helper loaded: form_helper
+DEBUG - 2013-07-26 07:56:59 --> Helper loaded: url_helper
+DEBUG - 2013-07-26 07:56:59 --> Helper loaded: table_helper
+DEBUG - 2013-07-26 07:56:59 --> Helper loaded: date_helper
+DEBUG - 2013-07-26 07:56:59 --> Helper loaded: text_helper
+DEBUG - 2013-07-26 07:56:59 --> Helper loaded: security_helper
+DEBUG - 2013-07-26 07:56:59 --> Helper loaded: lib_helper
+DEBUG - 2013-07-26 07:56:59 --> Helper loaded: html_helper
+DEBUG - 2013-07-26 07:56:59 --> Helper loaded: download_helper
+DEBUG - 2013-07-26 07:56:59 --> Helper loaded: csv_helper
+DEBUG - 2013-07-26 07:56:59 --> Helper loaded: datatables_helper
+DEBUG - 2013-07-26 07:56:59 --> Database Driver Class Initialized
+DEBUG - 2013-07-26 07:56:59 --> Table Class Initialized
+DEBUG - 2013-07-26 07:56:59 --> Form Validation Class Initialized
+DEBUG - 2013-07-26 07:56:59 --> Session Class Initialized
+DEBUG - 2013-07-26 07:56:59 --> Helper loaded: string_helper
+DEBUG - 2013-07-26 07:56:59 --> Session routines successfully run
+DEBUG - 2013-07-26 07:56:59 --> Email Class Initialized
+DEBUG - 2013-07-26 07:56:59 --> User Agent Class Initialized
+DEBUG - 2013-07-26 07:56:59 --> Pagination Class Initialized
+DEBUG - 2013-07-26 07:56:59 --> Controller Class Initialized
+DEBUG - 2013-07-26 07:56:59 --> Demo_ace MX_Controller Initialized
+DEBUG - 2013-07-26 07:56:59 --> Config file loaded: application/config/fusion_invoice.php
+DEBUG - 2013-07-26 07:56:59 --> Helper loaded: number_helper
+DEBUG - 2013-07-26 07:56:59 --> Helper loaded: pager_helper
+DEBUG - 2013-07-26 07:56:59 --> Helper loaded: invoice_helper
+DEBUG - 2013-07-26 07:56:59 --> Model Class Initialized
+DEBUG - 2013-07-26 07:56:59 --> File loaded: application/modules/settings/models/mdl_settings.php
+DEBUG - 2013-07-26 07:56:59 --> Model Class Initialized
+DEBUG - 2013-07-26 07:56:59 --> Language file loaded: language/english/app_lang.php
+DEBUG - 2013-07-26 07:56:59 --> Helper loaded: language_helper
+DEBUG - 2013-07-26 07:56:59 --> File loaded: application/controllers/../modules/layout/controllers/layout.php
+DEBUG - 2013-07-26 07:56:59 --> Layout MX_Controller Initialized
+DEBUG - 2013-07-26 07:56:59 --> File loaded: application/modules/demo_ace/views/index.php
+DEBUG - 2013-07-26 07:56:59 --> File loaded: application/modules/layout/views/top_bar.php
+DEBUG - 2013-07-26 07:56:59 --> File loaded: application/modules/layout/views/layout_ace_side_bar.php
+DEBUG - 2013-07-26 07:56:59 --> File loaded: application/modules/layout/views/layout_ace_dashboard.php
+DEBUG - 2013-07-26 07:56:59 --> Final output sent to browser
+DEBUG - 2013-07-26 07:56:59 --> Total execution time: 0.1795
+DEBUG - 2013-07-26 07:58:11 --> Config Class Initialized
+DEBUG - 2013-07-26 07:58:11 --> Hooks Class Initialized
+DEBUG - 2013-07-26 07:58:11 --> Utf8 Class Initialized
+DEBUG - 2013-07-26 07:58:11 --> UTF-8 Support Enabled
+DEBUG - 2013-07-26 07:58:11 --> URI Class Initialized
+DEBUG - 2013-07-26 07:58:11 --> Router Class Initialized
+DEBUG - 2013-07-26 07:58:11 --> Output Class Initialized
+DEBUG - 2013-07-26 07:58:11 --> Security Class Initialized
+DEBUG - 2013-07-26 07:58:11 --> Input Class Initialized
+DEBUG - 2013-07-26 07:58:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-26 07:58:11 --> Language Class Initialized
+DEBUG - 2013-07-26 07:58:11 --> Language Class Initialized
+DEBUG - 2013-07-26 07:58:11 --> Config Class Initialized
+DEBUG - 2013-07-26 07:58:11 --> Loader Class Initialized
+DEBUG - 2013-07-26 07:58:11 --> Helper loaded: form_helper
+DEBUG - 2013-07-26 07:58:11 --> Helper loaded: url_helper
+DEBUG - 2013-07-26 07:58:11 --> Helper loaded: table_helper
+DEBUG - 2013-07-26 07:58:11 --> Helper loaded: date_helper
+DEBUG - 2013-07-26 07:58:11 --> Helper loaded: text_helper
+DEBUG - 2013-07-26 07:58:11 --> Helper loaded: security_helper
+DEBUG - 2013-07-26 07:58:11 --> Helper loaded: lib_helper
+DEBUG - 2013-07-26 07:58:11 --> Helper loaded: html_helper
+DEBUG - 2013-07-26 07:58:11 --> Helper loaded: download_helper
+DEBUG - 2013-07-26 07:58:11 --> Helper loaded: csv_helper
+DEBUG - 2013-07-26 07:58:11 --> Helper loaded: datatables_helper
+DEBUG - 2013-07-26 07:58:11 --> Database Driver Class Initialized
+DEBUG - 2013-07-26 07:58:11 --> Table Class Initialized
+DEBUG - 2013-07-26 07:58:11 --> Form Validation Class Initialized
+DEBUG - 2013-07-26 07:58:11 --> Session Class Initialized
+DEBUG - 2013-07-26 07:58:11 --> Helper loaded: string_helper
+DEBUG - 2013-07-26 07:58:11 --> Session routines successfully run
+DEBUG - 2013-07-26 07:58:11 --> Email Class Initialized
+DEBUG - 2013-07-26 07:58:11 --> User Agent Class Initialized
+DEBUG - 2013-07-26 07:58:11 --> Pagination Class Initialized
+DEBUG - 2013-07-26 07:58:11 --> Controller Class Initialized
+DEBUG - 2013-07-26 07:58:11 --> Demo_ace MX_Controller Initialized
+DEBUG - 2013-07-26 07:58:11 --> Config file loaded: application/config/fusion_invoice.php
+DEBUG - 2013-07-26 07:58:11 --> Helper loaded: number_helper
+DEBUG - 2013-07-26 07:58:11 --> Helper loaded: pager_helper
+DEBUG - 2013-07-26 07:58:11 --> Helper loaded: invoice_helper
+DEBUG - 2013-07-26 07:58:11 --> Model Class Initialized
+DEBUG - 2013-07-26 07:58:11 --> File loaded: application/modules/settings/models/mdl_settings.php
+DEBUG - 2013-07-26 07:58:11 --> Model Class Initialized
+DEBUG - 2013-07-26 07:58:11 --> Language file loaded: language/english/app_lang.php
+DEBUG - 2013-07-26 07:58:11 --> Helper loaded: language_helper
+DEBUG - 2013-07-26 07:58:11 --> File loaded: application/controllers/../modules/layout/controllers/layout.php
+DEBUG - 2013-07-26 07:58:11 --> Layout MX_Controller Initialized
+DEBUG - 2013-07-26 07:58:11 --> File loaded: application/modules/demo_ace/views/index.php
+DEBUG - 2013-07-26 07:58:11 --> File loaded: application/modules/layout/views/top_bar.php
+DEBUG - 2013-07-26 07:58:11 --> File loaded: application/modules/layout/views/layout_ace_side_bar.php
+DEBUG - 2013-07-26 07:58:11 --> File loaded: application/modules/layout/views/layout_ace_dashboard.php
+DEBUG - 2013-07-26 07:58:11 --> Final output sent to browser
+DEBUG - 2013-07-26 07:58:11 --> Total execution time: 0.1868
+DEBUG - 2013-07-26 07:58:37 --> Config Class Initialized
+DEBUG - 2013-07-26 07:58:37 --> Hooks Class Initialized
+DEBUG - 2013-07-26 07:58:37 --> Utf8 Class Initialized
+DEBUG - 2013-07-26 07:58:37 --> UTF-8 Support Enabled
+DEBUG - 2013-07-26 07:58:37 --> URI Class Initialized
+DEBUG - 2013-07-26 07:58:37 --> Router Class Initialized
+DEBUG - 2013-07-26 07:58:37 --> Output Class Initialized
+DEBUG - 2013-07-26 07:58:37 --> Security Class Initialized
+DEBUG - 2013-07-26 07:58:37 --> Input Class Initialized
+DEBUG - 2013-07-26 07:58:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-26 07:58:37 --> Language Class Initialized
+DEBUG - 2013-07-26 07:58:37 --> Language Class Initialized
+DEBUG - 2013-07-26 07:58:37 --> Config Class Initialized
+DEBUG - 2013-07-26 07:58:37 --> Loader Class Initialized
+DEBUG - 2013-07-26 07:58:37 --> Helper loaded: form_helper
+DEBUG - 2013-07-26 07:58:37 --> Helper loaded: url_helper
+DEBUG - 2013-07-26 07:58:37 --> Helper loaded: table_helper
+DEBUG - 2013-07-26 07:58:37 --> Helper loaded: date_helper
+DEBUG - 2013-07-26 07:58:37 --> Helper loaded: text_helper
+DEBUG - 2013-07-26 07:58:37 --> Helper loaded: security_helper
+DEBUG - 2013-07-26 07:58:37 --> Helper loaded: lib_helper
+DEBUG - 2013-07-26 07:58:37 --> Helper loaded: html_helper
+DEBUG - 2013-07-26 07:58:37 --> Helper loaded: download_helper
+DEBUG - 2013-07-26 07:58:37 --> Helper loaded: csv_helper
+DEBUG - 2013-07-26 07:58:37 --> Helper loaded: datatables_helper
+DEBUG - 2013-07-26 07:58:37 --> Database Driver Class Initialized
+DEBUG - 2013-07-26 07:58:37 --> Table Class Initialized
+DEBUG - 2013-07-26 07:58:37 --> Form Validation Class Initialized
+DEBUG - 2013-07-26 07:58:37 --> Session Class Initialized
+DEBUG - 2013-07-26 07:58:37 --> Helper loaded: string_helper
+DEBUG - 2013-07-26 07:58:37 --> Session routines successfully run
+DEBUG - 2013-07-26 07:58:37 --> Email Class Initialized
+DEBUG - 2013-07-26 07:58:37 --> User Agent Class Initialized
+DEBUG - 2013-07-26 07:58:37 --> Pagination Class Initialized
+DEBUG - 2013-07-26 07:58:37 --> Controller Class Initialized
+DEBUG - 2013-07-26 07:58:37 --> Demo_ace MX_Controller Initialized
+DEBUG - 2013-07-26 07:58:37 --> Config file loaded: application/config/fusion_invoice.php
+DEBUG - 2013-07-26 07:58:37 --> Helper loaded: number_helper
+DEBUG - 2013-07-26 07:58:37 --> Helper loaded: pager_helper
+DEBUG - 2013-07-26 07:58:37 --> Helper loaded: invoice_helper
+DEBUG - 2013-07-26 07:58:37 --> Model Class Initialized
+DEBUG - 2013-07-26 07:58:37 --> File loaded: application/modules/settings/models/mdl_settings.php
+DEBUG - 2013-07-26 07:58:37 --> Model Class Initialized
+DEBUG - 2013-07-26 07:58:37 --> Language file loaded: language/english/app_lang.php
+DEBUG - 2013-07-26 07:58:37 --> Helper loaded: language_helper
+DEBUG - 2013-07-26 07:58:37 --> File loaded: application/controllers/../modules/layout/controllers/layout.php
+DEBUG - 2013-07-26 07:58:37 --> Layout MX_Controller Initialized
+DEBUG - 2013-07-26 07:58:37 --> File loaded: application/modules/demo_ace/views/index.php
+DEBUG - 2013-07-26 07:58:37 --> File loaded: application/modules/layout/views/top_bar.php
+DEBUG - 2013-07-26 07:58:37 --> File loaded: application/modules/layout/views/layout_ace_side_bar.php
+DEBUG - 2013-07-26 07:58:37 --> File loaded: application/modules/layout/views/layout_ace_dashboard.php
+DEBUG - 2013-07-26 07:58:37 --> Final output sent to browser
+DEBUG - 2013-07-26 07:58:37 --> Total execution time: 0.1923
+DEBUG - 2013-07-26 07:58:52 --> Config Class Initialized
+DEBUG - 2013-07-26 07:58:52 --> Hooks Class Initialized
+DEBUG - 2013-07-26 07:58:52 --> Utf8 Class Initialized
+DEBUG - 2013-07-26 07:58:52 --> UTF-8 Support Enabled
+DEBUG - 2013-07-26 07:58:52 --> URI Class Initialized
+DEBUG - 2013-07-26 07:58:52 --> Router Class Initialized
+DEBUG - 2013-07-26 07:58:52 --> Output Class Initialized
+DEBUG - 2013-07-26 07:58:52 --> Security Class Initialized
+DEBUG - 2013-07-26 07:58:52 --> Input Class Initialized
+DEBUG - 2013-07-26 07:58:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-26 07:58:52 --> Language Class Initialized
+DEBUG - 2013-07-26 07:58:52 --> Language Class Initialized
+DEBUG - 2013-07-26 07:58:52 --> Config Class Initialized
+DEBUG - 2013-07-26 07:58:52 --> Loader Class Initialized
+DEBUG - 2013-07-26 07:58:52 --> Helper loaded: form_helper
+DEBUG - 2013-07-26 07:58:52 --> Helper loaded: url_helper
+DEBUG - 2013-07-26 07:58:52 --> Helper loaded: table_helper
+DEBUG - 2013-07-26 07:58:52 --> Helper loaded: date_helper
+DEBUG - 2013-07-26 07:58:52 --> Helper loaded: text_helper
+DEBUG - 2013-07-26 07:58:52 --> Helper loaded: security_helper
+DEBUG - 2013-07-26 07:58:52 --> Helper loaded: lib_helper
+DEBUG - 2013-07-26 07:58:52 --> Helper loaded: html_helper
+DEBUG - 2013-07-26 07:58:52 --> Helper loaded: download_helper
+DEBUG - 2013-07-26 07:58:52 --> Helper loaded: csv_helper
+DEBUG - 2013-07-26 07:58:52 --> Helper loaded: datatables_helper
+DEBUG - 2013-07-26 07:58:52 --> Database Driver Class Initialized
+DEBUG - 2013-07-26 07:58:52 --> Table Class Initialized
+DEBUG - 2013-07-26 07:58:52 --> Form Validation Class Initialized
+DEBUG - 2013-07-26 07:58:52 --> Session Class Initialized
+DEBUG - 2013-07-26 07:58:52 --> Helper loaded: string_helper
+DEBUG - 2013-07-26 07:58:52 --> Session routines successfully run
+DEBUG - 2013-07-26 07:58:52 --> Email Class Initialized
+DEBUG - 2013-07-26 07:58:52 --> User Agent Class Initialized
+DEBUG - 2013-07-26 07:58:52 --> Pagination Class Initialized
+DEBUG - 2013-07-26 07:58:52 --> Controller Class Initialized
+DEBUG - 2013-07-26 07:58:52 --> Demo_ace MX_Controller Initialized
+DEBUG - 2013-07-26 07:58:52 --> Config file loaded: application/config/fusion_invoice.php
+DEBUG - 2013-07-26 07:58:52 --> Helper loaded: number_helper
+DEBUG - 2013-07-26 07:58:52 --> Helper loaded: pager_helper
+DEBUG - 2013-07-26 07:58:52 --> Helper loaded: invoice_helper
+DEBUG - 2013-07-26 07:58:52 --> Model Class Initialized
+DEBUG - 2013-07-26 07:58:52 --> File loaded: application/modules/settings/models/mdl_settings.php
+DEBUG - 2013-07-26 07:58:52 --> Model Class Initialized
+DEBUG - 2013-07-26 07:58:52 --> Language file loaded: language/english/app_lang.php
+DEBUG - 2013-07-26 07:58:52 --> Helper loaded: language_helper
+DEBUG - 2013-07-26 07:58:52 --> File loaded: application/controllers/../modules/layout/controllers/layout.php
+DEBUG - 2013-07-26 07:58:52 --> Layout MX_Controller Initialized
+DEBUG - 2013-07-26 07:58:52 --> File loaded: application/modules/demo_ace/views/index.php
+DEBUG - 2013-07-26 07:58:52 --> File loaded: application/modules/layout/views/top_bar.php
+DEBUG - 2013-07-26 07:58:52 --> File loaded: application/modules/layout/views/layout_ace_side_bar.php
+DEBUG - 2013-07-26 07:58:52 --> File loaded: application/modules/layout/views/layout_ace_dashboard.php
+DEBUG - 2013-07-26 07:58:52 --> Final output sent to browser
+DEBUG - 2013-07-26 07:58:52 --> Total execution time: 0.2391
+DEBUG - 2013-07-26 07:59:02 --> Config Class Initialized
+DEBUG - 2013-07-26 07:59:02 --> Hooks Class Initialized
+DEBUG - 2013-07-26 07:59:02 --> Utf8 Class Initialized
+DEBUG - 2013-07-26 07:59:02 --> UTF-8 Support Enabled
+DEBUG - 2013-07-26 07:59:02 --> URI Class Initialized
+DEBUG - 2013-07-26 07:59:02 --> Router Class Initialized
+DEBUG - 2013-07-26 07:59:02 --> Output Class Initialized
+DEBUG - 2013-07-26 07:59:02 --> Security Class Initialized
+DEBUG - 2013-07-26 07:59:02 --> Input Class Initialized
+DEBUG - 2013-07-26 07:59:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-26 07:59:02 --> Language Class Initialized
+DEBUG - 2013-07-26 07:59:02 --> Language Class Initialized
+DEBUG - 2013-07-26 07:59:02 --> Config Class Initialized
+DEBUG - 2013-07-26 07:59:02 --> Loader Class Initialized
+DEBUG - 2013-07-26 07:59:02 --> Helper loaded: form_helper
+DEBUG - 2013-07-26 07:59:02 --> Helper loaded: url_helper
+DEBUG - 2013-07-26 07:59:02 --> Helper loaded: table_helper
+DEBUG - 2013-07-26 07:59:02 --> Helper loaded: date_helper
+DEBUG - 2013-07-26 07:59:02 --> Helper loaded: text_helper
+DEBUG - 2013-07-26 07:59:02 --> Helper loaded: security_helper
+DEBUG - 2013-07-26 07:59:02 --> Helper loaded: lib_helper
+DEBUG - 2013-07-26 07:59:02 --> Helper loaded: html_helper
+DEBUG - 2013-07-26 07:59:02 --> Helper loaded: download_helper
+DEBUG - 2013-07-26 07:59:02 --> Helper loaded: csv_helper
+DEBUG - 2013-07-26 07:59:02 --> Helper loaded: datatables_helper
+DEBUG - 2013-07-26 07:59:02 --> Database Driver Class Initialized
+DEBUG - 2013-07-26 07:59:02 --> Table Class Initialized
+DEBUG - 2013-07-26 07:59:02 --> Form Validation Class Initialized
+DEBUG - 2013-07-26 07:59:02 --> Session Class Initialized
+DEBUG - 2013-07-26 07:59:02 --> Helper loaded: string_helper
+DEBUG - 2013-07-26 07:59:02 --> Session routines successfully run
+DEBUG - 2013-07-26 07:59:02 --> Email Class Initialized
+DEBUG - 2013-07-26 07:59:02 --> User Agent Class Initialized
+DEBUG - 2013-07-26 07:59:02 --> Pagination Class Initialized
+DEBUG - 2013-07-26 07:59:02 --> Controller Class Initialized
+DEBUG - 2013-07-26 07:59:02 --> Demo_ace MX_Controller Initialized
+DEBUG - 2013-07-26 07:59:02 --> Config file loaded: application/config/fusion_invoice.php
+DEBUG - 2013-07-26 07:59:02 --> Helper loaded: number_helper
+DEBUG - 2013-07-26 07:59:02 --> Helper loaded: pager_helper
+DEBUG - 2013-07-26 07:59:02 --> Helper loaded: invoice_helper
+DEBUG - 2013-07-26 07:59:02 --> Model Class Initialized
+DEBUG - 2013-07-26 07:59:02 --> File loaded: application/modules/settings/models/mdl_settings.php
+DEBUG - 2013-07-26 07:59:02 --> Model Class Initialized
+DEBUG - 2013-07-26 07:59:03 --> Language file loaded: language/english/app_lang.php
+DEBUG - 2013-07-26 07:59:03 --> Helper loaded: language_helper
+DEBUG - 2013-07-26 07:59:03 --> File loaded: application/controllers/../modules/layout/controllers/layout.php
+DEBUG - 2013-07-26 07:59:03 --> Layout MX_Controller Initialized
+DEBUG - 2013-07-26 07:59:03 --> File loaded: application/modules/demo_ace/views/typography.php
+DEBUG - 2013-07-26 07:59:03 --> File loaded: application/modules/layout/views/top_bar.php
+DEBUG - 2013-07-26 07:59:03 --> File loaded: application/modules/layout/views/layout_ace_side_bar.php
+DEBUG - 2013-07-26 07:59:03 --> File loaded: application/modules/layout/views/layout_ace.php
+DEBUG - 2013-07-26 07:59:03 --> Final output sent to browser
+DEBUG - 2013-07-26 07:59:03 --> Total execution time: 0.3102
+DEBUG - 2013-07-26 07:59:04 --> Config Class Initialized
+DEBUG - 2013-07-26 07:59:04 --> Hooks Class Initialized
+DEBUG - 2013-07-26 07:59:04 --> Utf8 Class Initialized
+DEBUG - 2013-07-26 07:59:04 --> UTF-8 Support Enabled
+DEBUG - 2013-07-26 07:59:04 --> URI Class Initialized
+DEBUG - 2013-07-26 07:59:04 --> Router Class Initialized
+DEBUG - 2013-07-26 07:59:04 --> Output Class Initialized
+DEBUG - 2013-07-26 07:59:04 --> Security Class Initialized
+DEBUG - 2013-07-26 07:59:04 --> Input Class Initialized
+DEBUG - 2013-07-26 07:59:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-26 07:59:04 --> Language Class Initialized
+DEBUG - 2013-07-26 07:59:04 --> Language Class Initialized
+DEBUG - 2013-07-26 07:59:04 --> Config Class Initialized
+DEBUG - 2013-07-26 07:59:04 --> Loader Class Initialized
+DEBUG - 2013-07-26 07:59:04 --> Helper loaded: form_helper
+DEBUG - 2013-07-26 07:59:04 --> Helper loaded: url_helper
+DEBUG - 2013-07-26 07:59:04 --> Helper loaded: table_helper
+DEBUG - 2013-07-26 07:59:04 --> Helper loaded: date_helper
+DEBUG - 2013-07-26 07:59:04 --> Helper loaded: text_helper
+DEBUG - 2013-07-26 07:59:04 --> Helper loaded: security_helper
+DEBUG - 2013-07-26 07:59:04 --> Helper loaded: lib_helper
+DEBUG - 2013-07-26 07:59:04 --> Helper loaded: html_helper
+DEBUG - 2013-07-26 07:59:04 --> Helper loaded: download_helper
+DEBUG - 2013-07-26 07:59:04 --> Helper loaded: csv_helper
+DEBUG - 2013-07-26 07:59:04 --> Helper loaded: datatables_helper
+DEBUG - 2013-07-26 07:59:04 --> Database Driver Class Initialized
+DEBUG - 2013-07-26 07:59:04 --> Table Class Initialized
+DEBUG - 2013-07-26 07:59:04 --> Form Validation Class Initialized
+DEBUG - 2013-07-26 07:59:04 --> Session Class Initialized
+DEBUG - 2013-07-26 07:59:04 --> Helper loaded: string_helper
+DEBUG - 2013-07-26 07:59:04 --> Session routines successfully run
+DEBUG - 2013-07-26 07:59:04 --> Email Class Initialized
+DEBUG - 2013-07-26 07:59:04 --> User Agent Class Initialized
+DEBUG - 2013-07-26 07:59:04 --> Pagination Class Initialized
+DEBUG - 2013-07-26 07:59:04 --> Controller Class Initialized
+DEBUG - 2013-07-26 07:59:04 --> Demo_ace MX_Controller Initialized
+DEBUG - 2013-07-26 07:59:04 --> Config file loaded: application/config/fusion_invoice.php
+DEBUG - 2013-07-26 07:59:04 --> Helper loaded: number_helper
+DEBUG - 2013-07-26 07:59:04 --> Helper loaded: pager_helper
+DEBUG - 2013-07-26 07:59:04 --> Helper loaded: invoice_helper
+DEBUG - 2013-07-26 07:59:04 --> Model Class Initialized
+DEBUG - 2013-07-26 07:59:04 --> File loaded: application/modules/settings/models/mdl_settings.php
+DEBUG - 2013-07-26 07:59:04 --> Model Class Initialized
+DEBUG - 2013-07-26 07:59:04 --> Language file loaded: language/english/app_lang.php
+DEBUG - 2013-07-26 07:59:04 --> Helper loaded: language_helper
+DEBUG - 2013-07-26 07:59:04 --> File loaded: application/controllers/../modules/layout/controllers/layout.php
+DEBUG - 2013-07-26 07:59:04 --> Layout MX_Controller Initialized
+DEBUG - 2013-07-26 07:59:04 --> File loaded: application/modules/demo_ace/views/elements.php
+DEBUG - 2013-07-26 07:59:04 --> File loaded: application/modules/layout/views/top_bar.php
+DEBUG - 2013-07-26 07:59:04 --> File loaded: application/modules/layout/views/layout_ace_side_bar.php
+DEBUG - 2013-07-26 07:59:04 --> File loaded: application/modules/layout/views/layout_ace.php
+DEBUG - 2013-07-26 07:59:04 --> Final output sent to browser
+DEBUG - 2013-07-26 07:59:04 --> Total execution time: 0.1785
+DEBUG - 2013-07-26 07:59:06 --> Config Class Initialized
+DEBUG - 2013-07-26 07:59:06 --> Hooks Class Initialized
+DEBUG - 2013-07-26 07:59:06 --> Utf8 Class Initialized
+DEBUG - 2013-07-26 07:59:06 --> UTF-8 Support Enabled
+DEBUG - 2013-07-26 07:59:06 --> URI Class Initialized
+DEBUG - 2013-07-26 07:59:06 --> Router Class Initialized
+DEBUG - 2013-07-26 07:59:06 --> Output Class Initialized
+DEBUG - 2013-07-26 07:59:06 --> Security Class Initialized
+DEBUG - 2013-07-26 07:59:06 --> Input Class Initialized
+DEBUG - 2013-07-26 07:59:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-26 07:59:06 --> Language Class Initialized
+DEBUG - 2013-07-26 07:59:06 --> Language Class Initialized
+DEBUG - 2013-07-26 07:59:06 --> Config Class Initialized
+DEBUG - 2013-07-26 07:59:06 --> Loader Class Initialized
+DEBUG - 2013-07-26 07:59:06 --> Helper loaded: form_helper
+DEBUG - 2013-07-26 07:59:06 --> Helper loaded: url_helper
+DEBUG - 2013-07-26 07:59:06 --> Helper loaded: table_helper
+DEBUG - 2013-07-26 07:59:06 --> Helper loaded: date_helper
+DEBUG - 2013-07-26 07:59:06 --> Helper loaded: text_helper
+DEBUG - 2013-07-26 07:59:06 --> Helper loaded: security_helper
+DEBUG - 2013-07-26 07:59:06 --> Helper loaded: lib_helper
+DEBUG - 2013-07-26 07:59:06 --> Helper loaded: html_helper
+DEBUG - 2013-07-26 07:59:06 --> Helper loaded: download_helper
+DEBUG - 2013-07-26 07:59:06 --> Helper loaded: csv_helper
+DEBUG - 2013-07-26 07:59:06 --> Helper loaded: datatables_helper
+DEBUG - 2013-07-26 07:59:06 --> Database Driver Class Initialized
+DEBUG - 2013-07-26 07:59:06 --> Table Class Initialized
+DEBUG - 2013-07-26 07:59:06 --> Form Validation Class Initialized
+DEBUG - 2013-07-26 07:59:06 --> Session Class Initialized
+DEBUG - 2013-07-26 07:59:06 --> Helper loaded: string_helper
+DEBUG - 2013-07-26 07:59:06 --> Session routines successfully run
+DEBUG - 2013-07-26 07:59:06 --> Email Class Initialized
+DEBUG - 2013-07-26 07:59:06 --> User Agent Class Initialized
+DEBUG - 2013-07-26 07:59:06 --> Pagination Class Initialized
+DEBUG - 2013-07-26 07:59:06 --> Controller Class Initialized
+DEBUG - 2013-07-26 07:59:06 --> Demo_ace MX_Controller Initialized
+DEBUG - 2013-07-26 07:59:06 --> Config file loaded: application/config/fusion_invoice.php
+DEBUG - 2013-07-26 07:59:06 --> Helper loaded: number_helper
+DEBUG - 2013-07-26 07:59:06 --> Helper loaded: pager_helper
+DEBUG - 2013-07-26 07:59:06 --> Helper loaded: invoice_helper
+DEBUG - 2013-07-26 07:59:06 --> Model Class Initialized
+DEBUG - 2013-07-26 07:59:06 --> File loaded: application/modules/settings/models/mdl_settings.php
+DEBUG - 2013-07-26 07:59:06 --> Model Class Initialized
+DEBUG - 2013-07-26 07:59:06 --> Language file loaded: language/english/app_lang.php
+DEBUG - 2013-07-26 07:59:06 --> Helper loaded: language_helper
+DEBUG - 2013-07-26 07:59:06 --> File loaded: application/controllers/../modules/layout/controllers/layout.php
+DEBUG - 2013-07-26 07:59:06 --> Layout MX_Controller Initialized
+DEBUG - 2013-07-26 07:59:06 --> File loaded: application/modules/demo_ace/views/buttons.php
+DEBUG - 2013-07-26 07:59:06 --> File loaded: application/modules/layout/views/top_bar.php
+DEBUG - 2013-07-26 07:59:06 --> File loaded: application/modules/layout/views/layout_ace_side_bar.php
+DEBUG - 2013-07-26 07:59:06 --> File loaded: application/modules/layout/views/layout_ace.php
+DEBUG - 2013-07-26 07:59:06 --> Final output sent to browser
+DEBUG - 2013-07-26 07:59:06 --> Total execution time: 0.2531
+DEBUG - 2013-07-26 08:00:23 --> Config Class Initialized
+DEBUG - 2013-07-26 08:00:23 --> Hooks Class Initialized
+DEBUG - 2013-07-26 08:00:23 --> Utf8 Class Initialized
+DEBUG - 2013-07-26 08:00:23 --> UTF-8 Support Enabled
+DEBUG - 2013-07-26 08:00:23 --> URI Class Initialized
+DEBUG - 2013-07-26 08:00:23 --> Router Class Initialized
+DEBUG - 2013-07-26 08:00:23 --> Output Class Initialized
+DEBUG - 2013-07-26 08:00:23 --> Security Class Initialized
+DEBUG - 2013-07-26 08:00:23 --> Input Class Initialized
+DEBUG - 2013-07-26 08:00:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-26 08:00:23 --> Language Class Initialized
+DEBUG - 2013-07-26 08:00:23 --> Language Class Initialized
+DEBUG - 2013-07-26 08:00:23 --> Config Class Initialized
+DEBUG - 2013-07-26 08:00:23 --> Loader Class Initialized
+DEBUG - 2013-07-26 08:00:23 --> Helper loaded: form_helper
+DEBUG - 2013-07-26 08:00:23 --> Helper loaded: url_helper
+DEBUG - 2013-07-26 08:00:23 --> Helper loaded: table_helper
+DEBUG - 2013-07-26 08:00:23 --> Helper loaded: date_helper
+DEBUG - 2013-07-26 08:00:23 --> Helper loaded: text_helper
+DEBUG - 2013-07-26 08:00:23 --> Helper loaded: security_helper
+DEBUG - 2013-07-26 08:00:23 --> Helper loaded: lib_helper
+DEBUG - 2013-07-26 08:00:23 --> Helper loaded: html_helper
+DEBUG - 2013-07-26 08:00:23 --> Helper loaded: download_helper
+DEBUG - 2013-07-26 08:00:23 --> Helper loaded: csv_helper
+DEBUG - 2013-07-26 08:00:23 --> Helper loaded: datatables_helper
+DEBUG - 2013-07-26 08:00:23 --> Database Driver Class Initialized
+DEBUG - 2013-07-26 08:00:23 --> Table Class Initialized
+DEBUG - 2013-07-26 08:00:23 --> Form Validation Class Initialized
+DEBUG - 2013-07-26 08:00:23 --> Session Class Initialized
+DEBUG - 2013-07-26 08:00:23 --> Helper loaded: string_helper
+DEBUG - 2013-07-26 08:00:23 --> Session routines successfully run
+DEBUG - 2013-07-26 08:00:23 --> Email Class Initialized
+DEBUG - 2013-07-26 08:00:23 --> User Agent Class Initialized
+DEBUG - 2013-07-26 08:00:23 --> Pagination Class Initialized
+DEBUG - 2013-07-26 08:00:23 --> Controller Class Initialized
+DEBUG - 2013-07-26 08:00:23 --> Demo_ace MX_Controller Initialized
+DEBUG - 2013-07-26 08:00:23 --> Config file loaded: application/config/fusion_invoice.php
+DEBUG - 2013-07-26 08:00:23 --> Helper loaded: number_helper
+DEBUG - 2013-07-26 08:00:23 --> Helper loaded: pager_helper
+DEBUG - 2013-07-26 08:00:23 --> Helper loaded: invoice_helper
+DEBUG - 2013-07-26 08:00:23 --> Model Class Initialized
+DEBUG - 2013-07-26 08:00:23 --> File loaded: application/modules/settings/models/mdl_settings.php
+DEBUG - 2013-07-26 08:00:23 --> Model Class Initialized
+DEBUG - 2013-07-26 08:00:23 --> Language file loaded: language/english/app_lang.php
+DEBUG - 2013-07-26 08:00:23 --> Helper loaded: language_helper
+DEBUG - 2013-07-26 08:00:23 --> File loaded: application/controllers/../modules/layout/controllers/layout.php
+DEBUG - 2013-07-26 08:00:23 --> Layout MX_Controller Initialized
+DEBUG - 2013-07-26 08:00:23 --> File loaded: application/modules/demo_ace/views/treeview.php
+DEBUG - 2013-07-26 08:00:23 --> File loaded: application/modules/layout/views/top_bar.php
+DEBUG - 2013-07-26 08:00:23 --> File loaded: application/modules/layout/views/layout_ace_side_bar.php
+DEBUG - 2013-07-26 08:00:23 --> File loaded: application/modules/layout/views/layout_ace.php
+DEBUG - 2013-07-26 08:00:23 --> Final output sent to browser
+DEBUG - 2013-07-26 08:00:23 --> Total execution time: 0.2050
+DEBUG - 2013-07-26 08:00:24 --> Config Class Initialized
+DEBUG - 2013-07-26 08:00:24 --> Hooks Class Initialized
+DEBUG - 2013-07-26 08:00:24 --> Utf8 Class Initialized
+DEBUG - 2013-07-26 08:00:24 --> UTF-8 Support Enabled
+DEBUG - 2013-07-26 08:00:24 --> URI Class Initialized
+DEBUG - 2013-07-26 08:00:24 --> Router Class Initialized
+ERROR - 2013-07-26 08:00:24 --> 404 Page Not Found --> 
+DEBUG - 2013-07-26 08:00:24 --> Config Class Initialized
+DEBUG - 2013-07-26 08:00:24 --> Hooks Class Initialized
+DEBUG - 2013-07-26 08:00:24 --> Utf8 Class Initialized
+DEBUG - 2013-07-26 08:00:24 --> UTF-8 Support Enabled
+DEBUG - 2013-07-26 08:00:24 --> URI Class Initialized
+DEBUG - 2013-07-26 08:00:24 --> Router Class Initialized
+ERROR - 2013-07-26 08:00:24 --> 404 Page Not Found --> 
+DEBUG - 2013-07-26 08:03:41 --> Config Class Initialized
+DEBUG - 2013-07-26 08:03:41 --> Hooks Class Initialized
+DEBUG - 2013-07-26 08:03:41 --> Utf8 Class Initialized
+DEBUG - 2013-07-26 08:03:41 --> UTF-8 Support Enabled
+DEBUG - 2013-07-26 08:03:41 --> URI Class Initialized
+DEBUG - 2013-07-26 08:03:41 --> Router Class Initialized
+DEBUG - 2013-07-26 08:03:41 --> Output Class Initialized
+DEBUG - 2013-07-26 08:03:41 --> Security Class Initialized
+DEBUG - 2013-07-26 08:03:41 --> Input Class Initialized
+DEBUG - 2013-07-26 08:03:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-26 08:03:41 --> Language Class Initialized
+DEBUG - 2013-07-26 08:03:41 --> Language Class Initialized
+DEBUG - 2013-07-26 08:03:41 --> Config Class Initialized
+DEBUG - 2013-07-26 08:03:41 --> Loader Class Initialized
+DEBUG - 2013-07-26 08:03:41 --> Helper loaded: form_helper
+DEBUG - 2013-07-26 08:03:41 --> Helper loaded: url_helper
+DEBUG - 2013-07-26 08:03:41 --> Helper loaded: table_helper
+DEBUG - 2013-07-26 08:03:41 --> Helper loaded: date_helper
+DEBUG - 2013-07-26 08:03:41 --> Helper loaded: text_helper
+DEBUG - 2013-07-26 08:03:41 --> Helper loaded: security_helper
+DEBUG - 2013-07-26 08:03:41 --> Helper loaded: lib_helper
+DEBUG - 2013-07-26 08:03:41 --> Helper loaded: html_helper
+DEBUG - 2013-07-26 08:03:41 --> Helper loaded: download_helper
+DEBUG - 2013-07-26 08:03:41 --> Helper loaded: csv_helper
+DEBUG - 2013-07-26 08:03:41 --> Helper loaded: datatables_helper
+DEBUG - 2013-07-26 08:03:41 --> Database Driver Class Initialized
+DEBUG - 2013-07-26 08:03:41 --> Table Class Initialized
+DEBUG - 2013-07-26 08:03:41 --> Form Validation Class Initialized
+DEBUG - 2013-07-26 08:03:41 --> Session Class Initialized
+DEBUG - 2013-07-26 08:03:41 --> Helper loaded: string_helper
+DEBUG - 2013-07-26 08:03:41 --> Session routines successfully run
+DEBUG - 2013-07-26 08:03:41 --> Email Class Initialized
+DEBUG - 2013-07-26 08:03:41 --> User Agent Class Initialized
+DEBUG - 2013-07-26 08:03:41 --> Pagination Class Initialized
+DEBUG - 2013-07-26 08:03:41 --> Controller Class Initialized
+DEBUG - 2013-07-26 08:03:41 --> Demo_ace MX_Controller Initialized
+DEBUG - 2013-07-26 08:03:41 --> Config file loaded: application/config/fusion_invoice.php
+DEBUG - 2013-07-26 08:03:41 --> Helper loaded: number_helper
+DEBUG - 2013-07-26 08:03:41 --> Helper loaded: pager_helper
+DEBUG - 2013-07-26 08:03:41 --> Helper loaded: invoice_helper
+DEBUG - 2013-07-26 08:03:41 --> Model Class Initialized
+DEBUG - 2013-07-26 08:03:41 --> File loaded: application/modules/settings/models/mdl_settings.php
+DEBUG - 2013-07-26 08:03:41 --> Model Class Initialized
+DEBUG - 2013-07-26 08:03:41 --> Language file loaded: language/english/app_lang.php
+DEBUG - 2013-07-26 08:03:41 --> Helper loaded: language_helper
+DEBUG - 2013-07-26 08:03:41 --> File loaded: application/controllers/../modules/layout/controllers/layout.php
+DEBUG - 2013-07-26 08:03:41 --> Layout MX_Controller Initialized
+DEBUG - 2013-07-26 08:03:41 --> File loaded: application/modules/demo_ace/views/tables.php
+DEBUG - 2013-07-26 08:03:41 --> File loaded: application/modules/layout/views/top_bar.php
+DEBUG - 2013-07-26 08:03:41 --> File loaded: application/modules/layout/views/layout_ace_side_bar.php
+DEBUG - 2013-07-26 08:03:41 --> File loaded: application/modules/layout/views/layout_ace.php
+DEBUG - 2013-07-26 08:03:41 --> Final output sent to browser
+DEBUG - 2013-07-26 08:03:41 --> Total execution time: 0.1691
+DEBUG - 2013-07-26 08:04:04 --> Config Class Initialized
+DEBUG - 2013-07-26 08:04:04 --> Hooks Class Initialized
+DEBUG - 2013-07-26 08:04:04 --> Utf8 Class Initialized
+DEBUG - 2013-07-26 08:04:04 --> UTF-8 Support Enabled
+DEBUG - 2013-07-26 08:04:04 --> URI Class Initialized
+DEBUG - 2013-07-26 08:04:04 --> Router Class Initialized
+DEBUG - 2013-07-26 08:04:04 --> Output Class Initialized
+DEBUG - 2013-07-26 08:04:04 --> Security Class Initialized
+DEBUG - 2013-07-26 08:04:04 --> Input Class Initialized
+DEBUG - 2013-07-26 08:04:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-26 08:04:04 --> Language Class Initialized
+DEBUG - 2013-07-26 08:04:04 --> Language Class Initialized
+DEBUG - 2013-07-26 08:04:04 --> Config Class Initialized
+DEBUG - 2013-07-26 08:04:04 --> Loader Class Initialized
+DEBUG - 2013-07-26 08:04:04 --> Helper loaded: form_helper
+DEBUG - 2013-07-26 08:04:04 --> Helper loaded: url_helper
+DEBUG - 2013-07-26 08:04:04 --> Helper loaded: table_helper
+DEBUG - 2013-07-26 08:04:04 --> Helper loaded: date_helper
+DEBUG - 2013-07-26 08:04:04 --> Helper loaded: text_helper
+DEBUG - 2013-07-26 08:04:04 --> Helper loaded: security_helper
+DEBUG - 2013-07-26 08:04:04 --> Helper loaded: lib_helper
+DEBUG - 2013-07-26 08:04:04 --> Helper loaded: html_helper
+DEBUG - 2013-07-26 08:04:04 --> Helper loaded: download_helper
+DEBUG - 2013-07-26 08:04:04 --> Helper loaded: csv_helper
+DEBUG - 2013-07-26 08:04:04 --> Helper loaded: datatables_helper
+DEBUG - 2013-07-26 08:04:04 --> Database Driver Class Initialized
+DEBUG - 2013-07-26 08:04:04 --> Table Class Initialized
+DEBUG - 2013-07-26 08:04:04 --> Form Validation Class Initialized
+DEBUG - 2013-07-26 08:04:04 --> Session Class Initialized
+DEBUG - 2013-07-26 08:04:04 --> Helper loaded: string_helper
+DEBUG - 2013-07-26 08:04:04 --> Session routines successfully run
+DEBUG - 2013-07-26 08:04:04 --> Email Class Initialized
+DEBUG - 2013-07-26 08:04:04 --> User Agent Class Initialized
+DEBUG - 2013-07-26 08:04:04 --> Pagination Class Initialized
+DEBUG - 2013-07-26 08:04:04 --> Controller Class Initialized
+DEBUG - 2013-07-26 08:04:04 --> Demo_ace MX_Controller Initialized
+DEBUG - 2013-07-26 08:04:04 --> Config file loaded: application/config/fusion_invoice.php
+DEBUG - 2013-07-26 08:04:04 --> Helper loaded: number_helper
+DEBUG - 2013-07-26 08:04:04 --> Helper loaded: pager_helper
+DEBUG - 2013-07-26 08:04:04 --> Helper loaded: invoice_helper
+DEBUG - 2013-07-26 08:04:04 --> Model Class Initialized
+DEBUG - 2013-07-26 08:04:04 --> File loaded: application/modules/settings/models/mdl_settings.php
+DEBUG - 2013-07-26 08:04:04 --> Model Class Initialized
+DEBUG - 2013-07-26 08:04:04 --> Language file loaded: language/english/app_lang.php
+DEBUG - 2013-07-26 08:04:04 --> Helper loaded: language_helper
+DEBUG - 2013-07-26 08:04:04 --> File loaded: application/controllers/../modules/layout/controllers/layout.php
+DEBUG - 2013-07-26 08:04:04 --> Layout MX_Controller Initialized
+DEBUG - 2013-07-26 08:04:04 --> File loaded: application/modules/demo_ace/views/form_elements.php
+DEBUG - 2013-07-26 08:04:04 --> File loaded: application/modules/layout/views/top_bar.php
+DEBUG - 2013-07-26 08:04:04 --> File loaded: application/modules/layout/views/layout_ace_side_bar.php
+DEBUG - 2013-07-26 08:04:04 --> File loaded: application/modules/layout/views/layout_ace.php
+DEBUG - 2013-07-26 08:04:04 --> Final output sent to browser
+DEBUG - 2013-07-26 08:04:04 --> Total execution time: 0.2084
+DEBUG - 2013-07-26 08:04:06 --> Config Class Initialized
+DEBUG - 2013-07-26 08:04:06 --> Hooks Class Initialized
+DEBUG - 2013-07-26 08:04:06 --> Utf8 Class Initialized
+DEBUG - 2013-07-26 08:04:06 --> UTF-8 Support Enabled
+DEBUG - 2013-07-26 08:04:06 --> URI Class Initialized
+DEBUG - 2013-07-26 08:04:06 --> Router Class Initialized
+DEBUG - 2013-07-26 08:04:06 --> Output Class Initialized
+DEBUG - 2013-07-26 08:04:06 --> Security Class Initialized
+DEBUG - 2013-07-26 08:04:06 --> Input Class Initialized
+DEBUG - 2013-07-26 08:04:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-26 08:04:06 --> Language Class Initialized
+DEBUG - 2013-07-26 08:04:06 --> Language Class Initialized
+DEBUG - 2013-07-26 08:04:06 --> Config Class Initialized
+DEBUG - 2013-07-26 08:04:06 --> Loader Class Initialized
+DEBUG - 2013-07-26 08:04:06 --> Helper loaded: form_helper
+DEBUG - 2013-07-26 08:04:06 --> Helper loaded: url_helper
+DEBUG - 2013-07-26 08:04:06 --> Helper loaded: table_helper
+DEBUG - 2013-07-26 08:04:06 --> Helper loaded: date_helper
+DEBUG - 2013-07-26 08:04:06 --> Helper loaded: text_helper
+DEBUG - 2013-07-26 08:04:06 --> Helper loaded: security_helper
+DEBUG - 2013-07-26 08:04:06 --> Helper loaded: lib_helper
+DEBUG - 2013-07-26 08:04:06 --> Helper loaded: html_helper
+DEBUG - 2013-07-26 08:04:06 --> Helper loaded: download_helper
+DEBUG - 2013-07-26 08:04:06 --> Helper loaded: csv_helper
+DEBUG - 2013-07-26 08:04:06 --> Helper loaded: datatables_helper
+DEBUG - 2013-07-26 08:04:06 --> Database Driver Class Initialized
+DEBUG - 2013-07-26 08:04:06 --> Table Class Initialized
+DEBUG - 2013-07-26 08:04:06 --> Form Validation Class Initialized
+DEBUG - 2013-07-26 08:04:06 --> Session Class Initialized
+DEBUG - 2013-07-26 08:04:06 --> Helper loaded: string_helper
+DEBUG - 2013-07-26 08:04:06 --> Session routines successfully run
+DEBUG - 2013-07-26 08:04:06 --> Email Class Initialized
+DEBUG - 2013-07-26 08:04:06 --> User Agent Class Initialized
+DEBUG - 2013-07-26 08:04:06 --> Pagination Class Initialized
+DEBUG - 2013-07-26 08:04:06 --> Controller Class Initialized
+DEBUG - 2013-07-26 08:04:06 --> Demo_ace MX_Controller Initialized
+DEBUG - 2013-07-26 08:04:06 --> Config file loaded: application/config/fusion_invoice.php
+DEBUG - 2013-07-26 08:04:06 --> Helper loaded: number_helper
+DEBUG - 2013-07-26 08:04:06 --> Helper loaded: pager_helper
+DEBUG - 2013-07-26 08:04:06 --> Helper loaded: invoice_helper
+DEBUG - 2013-07-26 08:04:06 --> Model Class Initialized
+DEBUG - 2013-07-26 08:04:06 --> File loaded: application/modules/settings/models/mdl_settings.php
+DEBUG - 2013-07-26 08:04:06 --> Model Class Initialized
+DEBUG - 2013-07-26 08:04:06 --> Language file loaded: language/english/app_lang.php
+DEBUG - 2013-07-26 08:04:06 --> Helper loaded: language_helper
+DEBUG - 2013-07-26 08:04:06 --> File loaded: application/controllers/../modules/layout/controllers/layout.php
+DEBUG - 2013-07-26 08:04:06 --> Layout MX_Controller Initialized
+DEBUG - 2013-07-26 08:04:06 --> File loaded: application/modules/demo_ace/views/index.php
+DEBUG - 2013-07-26 08:04:06 --> File loaded: application/modules/layout/views/top_bar.php
+DEBUG - 2013-07-26 08:04:06 --> File loaded: application/modules/layout/views/layout_ace_side_bar.php
+DEBUG - 2013-07-26 08:04:06 --> File loaded: application/modules/layout/views/layout_ace_dashboard.php
+DEBUG - 2013-07-26 08:04:06 --> Final output sent to browser
+DEBUG - 2013-07-26 08:04:06 --> Total execution time: 0.1706

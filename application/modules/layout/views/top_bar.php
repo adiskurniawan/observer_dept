@@ -11,7 +11,7 @@
 		</li>   
 		
 		<li class="mi">
-		  <a href="<?php echo base_url(); ?>demo_ace/dashboard" style="margin-left:60px">Ace</a>
+		  <a href="<?php echo base_url(); ?>demo_ace/dashboard" style="margin-left:40px">Demo Ace</a>
 		</li>
 		
 		<!-- <li class="mi">
@@ -24,23 +24,11 @@
 		-->
 
 		<li class="mi">
-		  <a href="<?php echo base_url(); ?>invoicing/dashboard" style="margin-left:60px">Invoicing</a>
+		  <a href="#" style="margin-left:50px">Master Data</a>
 		</li>
 
 		<li class="mi">
-		  <a href="<?php echo base_url(); ?>pos/dashboard">Point of Sales</a>
-		</li>
-
-		<li class="mi">
-		  <a href="<?php echo base_url(); ?>hr/dashboard">Human Resources</a>
-		</li>
-
-		<li class="mi">
-		  <a href="<?php echo base_url(); ?>payroll/dashboard">Payroll</a>
-		</li>
-
-		<li class="mi">
-		  <a href="<?php echo base_url(); ?>accounting/dashboard">Accounting</a>
+		  <a href="#">Storage & Birds</a>
 		</li>
 		
 		<!-- 
